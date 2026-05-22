@@ -49,7 +49,7 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Walmart Sales Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Python---Projects/Ecommerce-Sales-Analysis-By-Pandas) |
+| Walmart Sales Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Python---Projects/Walmart_Sales_Analysis-main) |
 | E-commerce Sale Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Python---Projects/Walmart_Sales_Analysis-main) |
 
 ---
