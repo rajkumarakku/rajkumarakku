@@ -16,7 +16,7 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 ## 📫 Connect With Me
 
 - 🔗 **LinkedIn** : [Check Profile](https://www.linkedin.com/in/rajkumarakku/)
-- 📁 **Project Portfolio** : [View Portfolio](https://codebasics.io/portfolio/Parth-Patoliya)
+- 📁 **Project Portfolio** : [View Portfolio](https://linktr.ee/Rajkumarakku)
 - 📩 **Gmail** : [rajkumarakku01@gmail.com](mailto:rajkumarakku01@gmail.com)
 - 📞 **Phone** : 9248300702
 
