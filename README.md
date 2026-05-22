@@ -35,12 +35,12 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Consumer Goods Ad-hoc Insights | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Ad-hoc-Consumer-Goods-Insights-CRPC-4) |
-| AtliQ Mart Festive Promotion Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/AtliQ-Mart-Retail-Store-Campaign-Strategy) |
-| Amazon Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Amazon_data_analysis_SQL) |
-| Coffee Store Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Coffe_Store_Data_Analysis_SQL) |
-| Zomato Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/zomato_sales_analysis_SQL-main) |
-| Netflix Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Netflix_data_analysis_SQL-main) |
+| Consumer Goods Ad-hoc Insights | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/Ad-hoc-Consumer-Goods-Insights-CRPC-4) |
+| AtliQ Mart Festive Promotion Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/AtliQ-Mart-Retail-Store-Campaign-Strategy) |
+| Amazon Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/Amazon_data_analysis_SQL) |
+| Coffee Store Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/Coffe_Store_Data_Analysis_SQL) |
+| Zomato Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/zomato_sales_analysis_SQL-main) |
+| Netflix Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/Netflix_data_analysis_SQL-main) |
 | Pizza Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/pizza_sales_SQL) |
 
 ---
