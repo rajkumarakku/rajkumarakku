@@ -67,5 +67,5 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Sales & Finance Report | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/Excel-Projects/Road_accident_dashboard.git) |
+| Sales & Finance Report | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/Excel-Projects/Road_accident_dashboard) |
 | Road Accident Data Analysis | [📁](https://github.com/parthpatoliya97/Road_accident_dashboard.git) |
