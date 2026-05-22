@@ -26,15 +26,11 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Goodcabs Transportation & Mobility | [🔗](https://github.com/parthpatoliya97/GOODCABS-Transportation-and-Mobility.git) |
 | AtliQ Motors EV Sales Strategy in India | [🔗](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis.git) |
 | Credit Card Strategic Insights | [🔗](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights.git) |
 | Hospitality Domain Revenue Insights | [🔗](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-.git) |
-| Shield Insurance Policy Analysis Report | [🔗](https://github.com/parthpatoliya97/Shield_Insurance_Analysis.git) |
-| Business Insights 360 | [🔗](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard.git) |
 | HR Analytics Dashboard | [🔗](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git) |
 | Superstore Sales Analysis | [🔗](https://github.com/parthpatoliya97/Superstore_Data_Insights.git) |
-| Madhav Ecommerce Data Insights | [🔗](https://github.com/parthpatoliya97/Madhav-Ecommerce-Sales-Insights.git) |
 
 ---
 
