@@ -49,9 +49,8 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Walmart Sales Analysis | [🔗](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git) |
-| Bank Customer Churn Analysis | [🔗](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git) |
-| E-commerce Sale Analysis | [🔗](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git) |
+| Walmart Sales Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Python---Projects/Ecommerce-Sales-Analysis-By-Pandas) |
+| E-commerce Sale Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Python---Projects/Walmart_Sales_Analysis-main) |
 
 ---
 
