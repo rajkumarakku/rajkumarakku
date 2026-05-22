@@ -41,7 +41,7 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 | Coffee Store Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Coffe_Store_Data_Analysis_SQL) |
 | Zomato Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/zomato_sales_analysis_SQL-main) |
 | Netflix Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Netflix_data_analysis_SQL-main) |
-| Pizza Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/pizza_sales_SQL) |
+| Pizza Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL---Projects/pizza_sales_SQL) |
 
 ---
 
