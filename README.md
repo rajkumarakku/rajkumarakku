@@ -26,11 +26,8 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| AtliQ Motors EV Sales Strategy in India | [🔗](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis.git) |
-| Credit Card Strategic Insights | [🔗](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights.git) |
-| Hospitality Domain Revenue Insights | [🔗](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-.git) |
-| HR Analytics Dashboard | [🔗](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git) |
-| Superstore Sales Analysis | [🔗](https://github.com/parthpatoliya97/Superstore_Data_Insights.git) |
+| HR Analytics Dashboard | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Power-Bi--Projects/HR-Analytics-Dashboard-main) |
+| Superstore Sales Analysis | [🔗](https://github.com/rajkumarakku/Portfolio_Projects/tree/Power-Bi--Projects/Superstore_Data_Insights) |
 
 ---
 
@@ -38,18 +35,13 @@ Data Analyst skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 
 | Project | Link |
 |---|---|
-| Consumer Goods Ad-hoc Insights | [📁](https://github.com/parthpatoliya97/Ad-hoc-Consumer-Goods-Insights-CRPC-4.git) |
-| AtliQ Mart Festive Promotion Analysis | [📁](https://github.com/parthpatoliya97/AtliQ-Mart-Retail-Store-Campaign-Strategy.git) |
-| Amazon Sales Analysis | [📁](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git) |
-| Coffee Store Data Analysis | [📁](https://github.com/parthpatoliya97/Coffe_Store_Data_Analysis_SQL.git) |
-| Library Management System | [📁](https://github.com/parthpatoliya97/library_management_system_SQL.git) |
-| Zomato Sales Analysis | [📁](https://github.com/parthpatoliya97/zomato_sales_analysis_SQL.git) |
-| Museum Painting Case Study | [📁](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git) |
-| Apple Sales Analysis | [📁](https://github.com/parthpatoliya97/Apple_Sales_Analysis_SQL.git) |
-| Netflix Data Analysis | [📁](https://github.com/parthpatoliya97/Netflix_data_analysis_SQL.git) |
-| Spotify Data Analysis | [📁](https://github.com/parthpatoliya97/Spotify_data_analysis_SQL.git) |
-| IPL Data Insights | [📁](https://github.com/parthpatoliya97/IPL_Data_Insights.git) |
-| Pizza Sales Analysis | [📁](https://github.com/parthpatoliya97/pizza_sales_SQL.git) |
+| Consumer Goods Ad-hoc Insights | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Ad-hoc-Consumer-Goods-Insights-CRPC-4) |
+| AtliQ Mart Festive Promotion Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/AtliQ-Mart-Retail-Store-Campaign-Strategy) |
+| Amazon Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Amazon_data_analysis_SQL) |
+| Coffee Store Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Coffe_Store_Data_Analysis_SQL) |
+| Zomato Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/zomato_sales_analysis_SQL-main) |
+| Netflix Data Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/Netflix_data_analysis_SQL-main) |
+| Pizza Sales Analysis | [📁](https://github.com/rajkumarakku/Portfolio_Projects/tree/SQL-Projects/pizza_sales_SQL) |
 
 ---
 
